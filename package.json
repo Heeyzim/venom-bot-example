@@ -1,0 +1,16 @@
+{
+  "name": "whatsBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "dependencies": {
+    "venom-bot": "^4.0.5"
+  },
+  "devDependencies": {
+    "tsx": "^3.12.3",
+    "typescript": "^4.9.5"
+  }
+}
